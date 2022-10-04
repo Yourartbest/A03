@@ -24,16 +24,27 @@ Go to Github's site which is linked above and press the sign up button at the to
 ## Glossary
 
 **Branch** - a copy of the repository that can be changed without changing the source code.
+
 **Clone** - command that will copy an existing repository and make a new one with the same content.
+
 **Commit** - a change to your code that is described.
+
 **Fetch** -  a command that retrieves and downloads objects into your local machine without messing with local code.
+
 **GIT** - an open source version control system that is distributed to spread the same codebase and history to every developer.
+
 **Github** - a platform for collaboration on projects and version control.
+
 **Merge** -  combines two branches into one repository and combines multiple commits into one memory.
+
 **Merge Conflict** - an error caused by the program not knowing what file to use when it is merged with the same file but with changes.
+
 **Push** - a command that updates a remote branch with local commits.
+
 **Pull** - a requested action that will merge once it has shown the user the changes in the code.
+
 **Remote** - a repository that can be used by all collaborators to share changes.
+
 **Repository** - the place the source code of the project is kept.
 
 ## Citations
