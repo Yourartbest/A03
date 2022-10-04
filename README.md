@@ -1,5 +1,5 @@
 # A03
-##Setting Up WebStorm
+## Setting Up WebStorm
 
 https://www.jetbrains.com/webstorm/
 
@@ -15,13 +15,13 @@ https://git-scm.com/
 
 To set up Git you want to go to the website which is linked above and click on downloads. Next, look for the operating system you use, in my case it was windows, and download the setup application. Then, open the app and allow for it to make changes on your computer or similar processes. Continue to press next after reading the user agreement and setting up your preferred settings for Git. Wait for the intaller reaches 100 percent, press finish to end the install process, and it should launch.
 
-##Setting up Github
+## Setting up Github
 
 https://github.com/
 
 Go to Github's site which is linked above and press the sign up button at the top right. Enter your email, password, username, answer y or n to their question, and verify your account through the catcha. Sign into your account and you can make a repository to start storing your code publically. You can connect your Github account to your WebStorm by opening the app and pressing (Ctrl+Alt+S), a window should appear. On the left side, you need to find Version Control and selecting Git from the drop down menu. Enter the path dictiory by pasting the file location of git.exe or selecting it with the file explorer.
 
-##Glossary
+## Glossary
 
 **Branch** - a copy of the repository that can be changed without changing the source code.
 **Clone** - command that will copy an existing repository and make a new one with the same content.
@@ -36,7 +36,7 @@ Go to Github's site which is linked above and press the sign up button at the to
 **Remote** - a repository that can be used by all collaborators to share changes.
 **Repository** - the place the source code of the project is kept.
 
-##Citations
+## Citations
 
 Dancuk, Milica. “Git Fetch Command {How to Use It + Examples}.” Knowledge Base by PhoenixNAP, PhoenixNAP | Global, 8 Dec. 2021, phoenixnap.com/kb/git-fetch.
 
