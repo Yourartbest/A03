@@ -17,4 +17,6 @@ To set up Git you want to go to the website which is linked above and click on d
 
 Github
 
-Go to Github's site which is linked above and press the sign up button at the top right. Enter your email, password, username, answer y or n to their question, and verify your account through the catcha. Sign in your account 
+https://github.com/
+
+Go to Github's site which is linked above and press the sign up button at the top right. Enter your email, password, username, answer y or n to their question, and verify your account through the catcha. Sign into your account and you can make a repository to start storing your code publically. You can connect your Github account to your WebStorm by opening the app and pressing (Ctrl+Alt+S), a window should appear. On the left side, you need to find Version Control and selecting Git from the drop down menu. Enter the path dictiory by pasting the file location of git.exe or selecting it with the file explorer.
